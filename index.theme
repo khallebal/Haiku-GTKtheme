@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Haiku
 MetacityTheme=Haiku
-IconTheme=Haiku
-CursorTheme=DMZ-White
+IconTheme=haiku
+CursorTheme=haiku
 ButtonLayout=:minimize,maximize,close
