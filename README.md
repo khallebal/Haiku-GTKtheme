@@ -42,7 +42,11 @@ Then run the following cmd:
 
 That's it you're done.
 
+### Requirements
 
+- GTK+ 3.20 or above
+
+Under linux:
 
 Extract the zip file to the themes directory i.e. `/home/USERNAME/.themes`
 
